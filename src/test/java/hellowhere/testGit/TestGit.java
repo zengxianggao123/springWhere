@@ -1,8 +1,10 @@
 package hellowhere.testGit;
 
+
+//è¿œç¨‹æäº¤åˆ°æœ¬åœ°
 public class TestGit {
 	public static void main(String[] args) {
-		System.out.println("wode ÊÀ½çÎÒ×öÖ÷");
+		System.out.println("wode ÃŠÃ€Â½Ã§ÃÃ’Ã—Ã¶Ã–Ã·");
 		System.out.println("dsfsdfdsf");
 	}
 
