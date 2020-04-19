@@ -8,6 +8,8 @@ public class TestGit {
 	}
 	public static void show() {
 		System.out.println("helloWord");
+		System.out.println();
+		System.out.println("           @@@@@@");
 	}
 
 }
