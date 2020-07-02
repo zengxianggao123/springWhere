@@ -10,6 +10,7 @@ public class TestGit {
 		System.out.println("helloWord");
 		System.out.println();
 		System.out.println("           @@@@@@");
+		System.out.println("           中国之声");
 	}
 
 }
