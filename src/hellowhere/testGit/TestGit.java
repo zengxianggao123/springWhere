@@ -15,6 +15,7 @@ public class TestGit {
 	System.out.println("          洪湖之声");
 	System.out.println("          武林之声");
 		System.out.println("          北斗神拳");
+		System.out.println("          七龙珠");
 
 	}
 
