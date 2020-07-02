@@ -11,6 +11,7 @@ public class TestGit {
 		System.out.println();
 		System.out.println("           @@@@@@");
 		System.out.println("           中国之声");
+	System.out.println("          湖北之声");
 	}
 
 }
