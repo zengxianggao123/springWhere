@@ -16,18 +16,14 @@ public class TestGit {
 	System.out.println("          武林之声");
 		System.out.println("          北斗神拳");
 		System.out.println("          七龙珠");
-<<<<<<< HEAD
-=======
+
 		System.out.println("     我的世界我做主");
 		System.out.println("          七龙珠1");
 		System.out.println("          七龙珠1");
 		System.out.println("          七龙珠1");
 
-<<<<<<< HEAD
+
 		System.out.println();
-=======
->>>>>>> 738fcce9b5488d240c48b3014ad7a3150b075897
->>>>>>> branch 'master' of https://github.com/zengxianggao123/springWhere.git
 
 	}
 
