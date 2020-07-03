@@ -21,6 +21,7 @@ public class TestGit {
 		System.out.println("          七龙珠1");
 		System.out.println("          七龙珠1");
 
+		System.out.println();
 
 	}
 
